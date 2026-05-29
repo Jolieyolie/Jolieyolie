@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Mimi 👋
-
 Frontend-focused developer exploring full-stack development and applied machine learning.
 
 ---
@@ -47,7 +45,7 @@ Frontend-focused developer exploring full-stack development and applied machine 
 - Applied machine learning with PyTorch
 
 ---
-
+<!--
 ## 🚀 Featured Projects
 
 ### 📦 Project 1 – [Name]
@@ -84,7 +82,7 @@ Short description (e.g. authentication, CRUD app, etc.)
 - Portfolio: [your link]
 
 ---
-
+-->
 ## ✨ Fun Fact
 
 I enjoy turning ideas into real working apps and experimenting with ML models.
