@@ -32,7 +32,7 @@ Frontend-focused developer exploring full-stack development and applied machine 
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,pytorch" />
 </p>
 
 ---
