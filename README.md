@@ -14,19 +14,77 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Developer focused on full-stack JavaScript and applied machine learning.
 
-## Tech Stack
+# Hi, I'm Mimi 👋
 
-Languages: JavaScript, TypeScript, Python
+Frontend-focused developer exploring full-stack development and applied machine learning.
 
-Frontend: React, Tailwind CSS, HTML, CSS
+---
 
-Backend: Node.js
+## 🧠 About Me
 
-Machine Learning: PyTorch
+- 💻 Working with JavaScript & TypeScript
+- ⚛️ Building frontend apps with React
+- 🌐 Learning backend development with Node.js
+- 🤖 Exploring applied ML with PyTorch
+- 📚 Always improving and building projects
 
-## Current Focus
-- Building full-stack applications
-- Improving TypeScript skills
-- Exploring applied ML with PyTorch
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind" />
+</p>
+
+---
+
+## 📌 Current Focus
+
+- Full-stack web development (frontend + backend integration)
+- TypeScript best practices
+- Building real-world projects
+- Applied machine learning with PyTorch
+
+---
+
+## 🚀 Featured Projects
+
+### 📦 Project 1 – [Name]
+Short description of what it does.
+
+**Tech:** React • TypeScript • Node.js
+
+---
+
+### 🤖 Project 2 – [ML Project]
+Short description (e.g. image classifier or prediction model).
+
+**Tech:** Python • PyTorch
+
+---
+
+### 🌐 Project 3 – [Full Stack App]
+Short description (e.g. authentication, CRUD app, etc.)
+
+**Tech:** React • Node.js • Tailwind CSS
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: [your link]
+- Portfolio: [your link]
+
+---
+
+## ✨ Fun Fact
+
+I enjoy turning ideas into real working apps and experimenting with ML models.
