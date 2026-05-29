@@ -19,7 +19,7 @@ Frontend-focused developer exploring full-stack development and applied machine 
 
 ---
 
-## 🧠 About Me
+## ⚡ About Me
 
 - 💻 Working with JavaScript & TypeScript
 - ⚛️ Building frontend apps with React
@@ -82,7 +82,7 @@ Short description (e.g. authentication, CRUD app, etc.)
 - Portfolio: [your link]
 
 ---
--->
+
 ## ✨ Fun Fact
 
-I enjoy turning ideas into real working apps and experimenting with ML models.
+I enjoy turning ideas into real working apps and experimenting with ML models.-->
