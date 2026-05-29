@@ -23,8 +23,8 @@ Frontend-focused developer exploring full-stack development and applied machine 
 
 - Full-stack JavaScript/TypeScript developer
 - Building frontend apps with React
-- Exploring backend development with Node.js
-- Interested in applied machine learning
+- Experimenting backend development with Node.js
+- Exploring applied machine learning
 
 ---
 
